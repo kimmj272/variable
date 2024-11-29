@@ -1,0 +1,10 @@
+D:\CShop\VariableTest\VariableTest\bin\Debug\VariableTest.exe.config
+D:\CShop\VariableTest\VariableTest\bin\Debug\VariableTest.exe
+D:\CShop\VariableTest\VariableTest\bin\Debug\VariableTest.pdb
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.csprojAssemblyReference.cache
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.frmMain.resources
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.Properties.Resources.resources
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.csproj.GenerateResource.cache
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.csproj.CoreCompileInputs.cache
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.exe
+D:\CShop\VariableTest\VariableTest\obj\Debug\VariableTest.pdb
